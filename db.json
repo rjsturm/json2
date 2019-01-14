@@ -1,0 +1,25 @@
+{
+    "result": [
+        {
+            "id": "67",
+            "name": "open-data-portal-sudtirol",
+            "title": "Open Data Portal Südtirol",
+            "description": "Open Data Portal Südtirol",
+            "spatial": "IT"
+        },
+        {
+            "id": "41",
+            "name": "g-sip-konstancin-jeziorna",
+            "title": "G-SIP Konstancin-Jeziorna",
+            "description": "G-SIP Konstancin-Jeziorna",
+            "spatial": "PL"
+        },
+        {
+            "id": "26",
+            "name": "fmi-catalog",
+            "title": "FMI Catalog",
+            "description": "Meteo Data Finland",
+            "spatial": "FI"
+        }
+    ]
+}
